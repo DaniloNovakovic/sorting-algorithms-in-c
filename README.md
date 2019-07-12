@@ -2,6 +2,8 @@
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+Original goal of this project was for me to learn sorting algorithms (at the time i was first year of university), but now it serves as a reference, or a quick reminder in case i ever need one of these algorithms again. It could also have an educational value since it could be of use to students / beginners starting out with their programming journey.
+
 ---
 
 ## O(n) Sorting algorithms
