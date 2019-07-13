@@ -1,4 +1,4 @@
-# Sorting algorithms in C
+# Sorting algorithms in C (DEPRECATED)
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
